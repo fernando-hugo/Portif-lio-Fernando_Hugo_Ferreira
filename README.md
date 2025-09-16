@@ -19,13 +19,14 @@ Tenho facilidade em aprender rápido e já desenvolvi projetos completos por con
 ## 💻 Projetos
 Aqui estão alguns projetos que desenvolvi:
 
-- 🔹 **[Projeto 1 – Nome]**  
-  Breve descrição do que faz. [🔗 Repositório](#)
+- 🔹 **[Projeto 1 – Dragon Ball Z]**  
+  Historia de Personagens. [[🔗 Repositório](https://fernando-hugo.github.io/projeto-nando-dbz/)]
 
 - 🔹 **[Projeto 2 – Nome]**  
-  Breve descrição do que faz. [🔗 Repositório](#)
+  Landing Page que capta dados de possiveis clientes. [🔗 Repositório](https://github.com/fernando-hugo/rid-214924_Desafio1.git)]
 
 *(Em breve adicionarei mais projetos ao meu portfólio.)*
+*(Estou montando um linkdin.)*
 
 ---
 
@@ -36,5 +37,5 @@ Estou aberto a **oportunidades de estágio, trainee ou desenvolvedor júnior**, 
 ---
 
 ## 📫 Contato
-- [LinkedIn](#)  
-- [Email](#)
+- [Telefone] (11)96210-4871 
+- [Email] fernandohugoferreira@gmail.com
