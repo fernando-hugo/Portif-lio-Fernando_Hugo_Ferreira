@@ -23,7 +23,7 @@ Aqui estão alguns projetos que desenvolvi:
   Historia de Personagens. [[🔗 Repositório](https://fernando-hugo.github.io/projeto-nando-dbz/)]
 
 - 🔹 **[Projeto 2 – Nome]**  
-  Landing Page que capta dados de possiveis clientes. [🔗 Repositório](https://github.com/fernando-hugo/rid-214924_Desafio1.git)]
+  Landing Page que capta dados de possiveis clientes. [🔗 Repositório](https://fernando-hugo.github.io/rid-214924_Desafio1/)]
 
 *(Em breve adicionarei mais projetos ao meu portfólio.)*
 *(Estou montando um linkdin.)*
